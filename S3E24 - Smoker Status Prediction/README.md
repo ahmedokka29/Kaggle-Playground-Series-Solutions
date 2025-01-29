@@ -17,8 +17,9 @@ Predict smoking status using physiological features like BMI, blood pressure, an
 ## 📊 EDA Highlights
 
 - Class imbalance: 65% non-smokers vs 35% smokers.
+
 <p align="center">
-![Smoker vs Non-Smoker Distribution](<Smoker vs Non-Smoker Distribution.png>)
+<img src="./Smoker vs Non-Smoker Distribution.png" alt="Smoker vs Non-Smoker Distribution">
 </p>
 
 - Strong correlation between `systolic` and `hemoglobin`.  
